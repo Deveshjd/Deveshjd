@@ -22,9 +22,14 @@
 
 ---
 
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoryarathore&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoryarathore&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shoryarathore&theme=tokyonight)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoryarathore&theme=tokyo-night)
+
 
 ---
 
