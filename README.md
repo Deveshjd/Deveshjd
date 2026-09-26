@@ -19,10 +19,9 @@
 <pre>
 deveshjd@github
 ──────────────────────────────────────
-OS: Human OS 20.26 LTS
-Host: Arya College of Engg & IT, Jaipur
-Kernel: B.Tech, AI & Data Science
-Shell: VSCode / PyCharm
+Role       : AI/ML Enthusiast
+Education  : B.Tech, AI & Data Science
+Editor     : VSCode / PyCharm
 
 Languages: Python, JavaScript, HTML/CSS
 Frameworks: PyTorch, FastAPI
