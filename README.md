@@ -13,9 +13,9 @@
 <table style="border-collapse: collapse; border: none;">
   <tr style="border:none;">
     <td style="border:none; vertical-align:top;">
-      <img src="./devesh.png" alt="Profile Image" width="300"/>
+      <img src="./devesh.png" alt="Profile Image" width="500"/>
     </td>
-    <td style="border:none; vertical-align:top;" width="650">
+    <td style="border:none; vertical-align:top;" width="550">
 <pre>
 deveshjd@github
 ──────────────────────────────────────
