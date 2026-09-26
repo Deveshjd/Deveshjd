@@ -1,27 +1,82 @@
-<h1 align="center">Hi 👋, I'm Devesh Jangid</h1>
-<h3 align="center">Preparing ML projects and polishing my GitHub portfolio</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshjd&label=Profile%20views&color=0e75b6&style=flat" alt="deveshjd" /> </p>
+<pre>
+ ____  _______     _______ ____  _   _       _   _    _   _  ____ ___ ____  
+|  _ \| ____\ \   / / ____/ ___|| | | |     | | / \  | \ | |/ ___|_ _|  _ \ 
+| | | |  _|  \ \ / /|  _| \___ \| |_| |  _  | |/ _ \ |  \| | |  _ | || | | |
+| |_| | |___  \ V / | |___ ___) |  _  | | |_| / ___ \| |\  | |_| || || |_| |
+|____/|_____|  \_/  |_____|____/|_| |_|  \___/_/   \_\_| \_|\____|___|____/ 
+</pre>
 
-<img align ="right" alt ="coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80">
+</div>
 
-<hr/>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border:none;">
+    <td style="border:none; vertical-align:top;">
+      <img src="./devesh.png" alt="Profile Image" width="300"/>
+    </td>
+    <td style="border:none; vertical-align:top;" width="650">
+<pre>
+deveshjd@github
+──────────────────────────────────────
+OS: Human OS 20.26 LTS
+Host: Arya College of Engg & IT, Jaipur
+Kernel: B.Tech, AI & Data Science
+Shell: VSCode / PyCharm
 
-- 🌱 I’m currently learning **Machine learning**
+Languages: Python, JavaScript, HTML/CSS
+Frameworks: PyTorch, FastAPI
+Focus: Computer Vision, Deep Learning, APIs
+Deploy: Netlify, HF Spaces, Kaggle GPU
 
-- 📫 How to reach me **jangiddevesh01@gmail.com**
-<hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-jangid-76b051291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devesh-jangid-76b051291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Devesh-jangid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devesh-jangid/" height="30" width="40" /></a>
+Currently: AI/ML Engineer track,
+           prepping GATE 2027
+Building: Surplus-to-Shelter
+          (AI food-rescue platform)
+
+Hobbies: (Coding, Cricket)
+──────────────────────────────────────
+#Contact
+Email     : jangiddevesh01@gmail.com
+LinkedIn  : (https://www.linkedin.com/in/devesh-jangid-1a8758409/)
+</pre>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
-<hr/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshjd&show_icons=true&locale=en&layout=compact" alt="deveshjd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshjd&show_icons=true&locale=en" alt="deveshjd" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshjd&" alt="deveshjd" /></p>
+<div align="center">
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deveshjd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshjd&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Deveshjd&theme=tokyonight&hide_border=true)
+
+<br>
+
+<!-- Add your real links below -->
+[![Email](https://img.shields.io/badge/Email-add--your--email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangiddevesh01@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-add--your--profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+---
+
+<p align="center"><i>Thanks for stopping by — always open to interesting AI/ML and web projects.</i></p>
