@@ -17,3 +17,5 @@ Building skills through projects.<br>Open for collaboration.<br>Intersted in AI/
 ![](https://github-readme-stats.vercel.app/api?username=Deveshjd&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Deveshjd&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshjd&theme=solarized-dark&hide_border=false&layout=compact)
+
+![snake animation](https://github.com/Deveshjd/Deveshjd/blob/output/github-contribution-grid-snake2.svg)
